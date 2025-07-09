@@ -43,4 +43,3 @@ export default function WikiPage({ content, title, token, slug }) {
     </div>
   )
 }
-
